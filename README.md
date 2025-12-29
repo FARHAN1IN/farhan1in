@@ -12,7 +12,4 @@ I am a detail-oriented Software Quality Assurance Engineer with hands-on experie
 ![](https://nirzak-streak-stats.vercel.app/?user=FARHAN1IN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN1IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FARHAN1IN&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
